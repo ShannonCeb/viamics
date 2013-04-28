@@ -1,5 +1,6 @@
+_Viamics is no longer being developed. Thanks for your interest._
 
-  Viamics
+ Viamics
 ===============================================================================
 
   "Visual and statistical analysis framework for microbial communities, and more".
@@ -43,19 +44,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
  Installation
 ===============================================================================
 
- Installation from source might be a little bit tricky for novice users.
+ Although it is quite straightforward, installation might be tricky for novice users.
 
- Beta release of the Framework will provide a better installation. This part,
-though, is for programmers and command line enthusiasts who like to get
-framework running.
+ Following information is mostly to give an idea to programmers and command line enthusiasts who like to get
+the framework running.
 
- I tried to maintain following recipe, but this may not be the complete list of
-commands in order to get framework running. If you have been trying to install
-Viamics and if you need any help please don't hesitate to send an e-mail to:
-
-    a.murat.eren / gmail.com
-
- Sorry for this temporary mess and inconvenience.
 
      # APT INSTALLATION SCRIPT FOR UBUNTU/DEBIAN:
      #     This python script: https://raw.github.com/meren/viamics/install/install.py will 
